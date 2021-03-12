@@ -15,5 +15,7 @@
   - 이 튜토리얼에서는 load data, create train/test/validation splits, build a vocabulary, create data iterators, define a model and implement the train/evaluate/test loop 를 배울 수 있습니다. 
   - 머신러닝 파이프라인을 간략하게나마 학습하기 위한 튜토리얼이므로 performance가 좋지 않습니다.  
 
-# Reference 
+
+
+## Reference 
 - https://github.com/bentrevett/pytorch-sentiment-analysis

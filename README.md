@@ -3,7 +3,8 @@
 - bentrevett의 pytorch tutorial을 통해 학습한 내용입니다. 
 - 일부 코드를 수정하고, 한국어로 설명을 적어놓았습니다.
 
-# Tutorials
+
+## Tutorials
 - 1 - [Simple Sentiment Analysis](https://github.com/happy-jihye/Natural-Language-Processing/blob/main/1_Simple_Sentiment_Analysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/1_Simple_Sentiment_Analysis.ipynb)
 
   - Pytorch의 torchtext를 이용한 간단한 프로젝트입니다. 

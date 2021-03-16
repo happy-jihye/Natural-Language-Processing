@@ -21,5 +21,11 @@
   - computation 속도를 높이기 위해 Packed padded Sequence의 방식을 사용하였고, pre-trained word embeddings과 다양한 RNN model을 사용하여 performance를 향상시켰습니다. 
   - 이 model에서는 LSTM, bidirectional-RNN, multi-layer RNN 등을 공부할 수 있습니다.
 
+- 3 - [Faster Sentiment Analysis](https://github.com/happy-jihye/Natural-Language-Processing/blob/main/3_Faster_Sentiment_Analysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/3_Faster_Sentiment_Analysis.ipynb)
+
+  - RNN을 사용하지 않고 [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759) 논문의 FastText model을 활용하여 computation speed를 향상시켰습니다. 
+  - 2개의 layer(embedding layer와 linear layer)로 구현된 모델로, 2보다 더 간단하지만 속도는 빠르고 성능 또한 괜찮은 모델입니다.
+
+
 ## Reference 
 - https://github.com/bentrevett/pytorch-sentiment-analysis

@@ -36,7 +36,7 @@
 - 5 - [Multi-class Sentiment Analysis](https://github.com/happy-jihye/Natural-Language-Processing/blob/main/5_Multi_class_Sentiment_Analysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/5_Multi_class_Sentiment_Analysis.ipynb)
 
   - 이전까지의 tutorial에서는 이진 분류에 대해서 학습하였다면, tutorial5에서는 여러 개의 클래스를 가진 데이터세트에 대해 분류하는 법을 학습하였습니다. 
- - Convolutional Neural Network를 사용하여 model을 구현했습니다.
+  - Convolutional Neural Network를 사용하여 model을 구현했습니다.
 
 ## Reference 
 - https://github.com/bentrevett/pytorch-sentiment-analysis

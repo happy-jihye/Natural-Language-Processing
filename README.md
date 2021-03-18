@@ -1,8 +1,7 @@
 # Natural-Language-Processing
 
 - bentrevett의 pytorch tutorial을 통해 학습한 내용입니다. 
-- 일부 코드를 수정하였고, 한국어로 설명을 적어놓았습니다.
-
+- 일부 코드를 수정하였고, 한국어로 설명을 적어놓았습니다. [Blog](https://happy-jihye.github.io/categories/#nlp)
 
 
 

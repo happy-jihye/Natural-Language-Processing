@@ -28,5 +28,12 @@
   - 2개의 layer(embedding layer와 linear layer)로 구현된 모델로, 2보다 더 간단하지만 속도는 빠르고 성능 또한 괜찮은 모델입니다.
   - tutorial1, 2 마찬가지로 IMDB dataset을 이용하였습니다.
 
+- 4 - [Convolutional Sentiment Analysis](https://github.com/happy-jihye/Natural-Language-Processing/blob/main/4_Convolutional_Sentiment_Analysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/4_Convolutional_Sentiment_Analysis.ipynb)
+
+  - 컴퓨터 비전 분야에서 자주 사용되는 네트워크인 Convolutional neural network(CNN)를 사용하여 감정 분석을 하였습니다.
+  - Convolutional Neural Networks for Sentence Classification paper의 model을 사용하였습니다.
+
+
+
 ## Reference 
 - https://github.com/bentrevett/pytorch-sentiment-analysis

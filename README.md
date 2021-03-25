@@ -40,3 +40,4 @@
 
 ## Reference 
 - https://github.com/bentrevett/pytorch-sentiment-analysis
+- https://github.com/bentrevett/pytorch-seq2seq

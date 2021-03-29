@@ -45,7 +45,7 @@
 **Seq2Seq Model**
 - 1 - [Sequence to Sequence Learning with Neural Networks](https://github.com/happy-jihye/Natural-Language-Processing/blob/main/1_Sequence_to_Sequence_Learning_with_Neural_Networks.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/1_Sequence_to_Sequence_Learning_with_Neural_Networks.ipynb)
 
-  - 최초로 Seq2Seq model을 제시한 논문인 [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) paper의 모델을 간단하게 구현하였습니다.
+  - NMT 분야에 최초로 Seq2Seq model을 적용한 논문인 [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) paper의 모델을 간단하게 구현하였습니다.
   - 이 notebook에서는 Encoder-Decoder 구조에 대해 학습할 수 있으며, 독일어를 영어로 번역하는 간단한 예제를 만들어볼 수 있습니다.
 
 ## Reference 

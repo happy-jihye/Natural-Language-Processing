@@ -2,6 +2,9 @@
 
 ## Papers
 
+자연어처리 관련 paper들과 해당 논문 review입니다. 읽는 순서대로 업데이트할 예정입니다.
+
+
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)(2014) : [Review](https://happy-jihye.github.io/nlp/nlp-6/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/1_Sequence_to_Sequence_Learning_with_Neural_Networks.ipynb)
 
 - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)(2014) : [Review](https://happy-jihye.github.io/nlp/nlp-7/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/2_Learning_Phrase_Representations_using_RNN_Encoder_Decoder_for_Statistical_Machine_Translation.ipynb)

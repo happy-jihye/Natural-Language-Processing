@@ -2,15 +2,19 @@
 
 ## Papers
 
-- [Sequence to Sequence Learning with Neural Networks(2014)](https://arxiv.org/abs/1409.3215) : [Review](https://happy-jihye.github.io/nlp/nlp-6/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/1_Sequence_to_Sequence_Learning_with_Neural_Networks.ipynb)
+- [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)(2014) : [Review](https://happy-jihye.github.io/nlp/nlp-6/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/1_Sequence_to_Sequence_Learning_with_Neural_Networks.ipynb)
 
-- [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation(2014)](https://arxiv.org/abs/1406.1078) : [Review](https://happy-jihye.github.io/nlp/nlp-7/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/2_Learning_Phrase_Representations_using_RNN_Encoder_Decoder_for_Statistical_Machine_Translation.ipynb)
+- [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)(2014) : [Review](https://happy-jihye.github.io/nlp/nlp-7/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/2_Learning_Phrase_Representations_using_RNN_Encoder_Decoder_for_Statistical_Machine_Translation.ipynb)
 
-- [Transformer : Attention is All you need(2017)](https://arxiv.org/abs/1706.03762) : [Review](https://happy-jihye.github.io/nlp/nlp-8/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/happy-jihye/Natural-Language-Processing/blob/main/code/6_Attention_is_All_You_Need.ipynb)
+- [Transformer : Attention is All you need](https://arxiv.org/abs/1706.03762)(2017) : [Review](https://happy-jihye.github.io/nlp/nlp-8/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/happy-jihye/Natural-Language-Processing/blob/main/code/6_Attention_is_All_You_Need.ipynb)
 
-- [Reformer: The Efficient Transformer(2020)](https://arxiv.org/abs/2001.04451) : [Review](https://happy-jihye.github.io/nlp/nlp-10/)
+- [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)(2020) : [Review](https://happy-jihye.github.io/nlp/nlp-10/)
 
-- [Visual Transformer(ViT): An Image is Worth 16X16 Words: Transformers for Image Recognition at Scale(2020)](https://arxiv.org/abs/2010.11929) : [Review](https://happy-jihye.github.io/nlp/nlp-9/)
+- [Visual Transformer(ViT) : An Image is Worth 16X16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)(2020) : [Review](https://happy-jihye.github.io/nlp/nlp-9/)
+
+- [ELMo : Deep contextualized word representations](https://arxiv.org/abs/1802.05365)(2018)
+
+- [BERT : Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)(2019)
 
 
 ---

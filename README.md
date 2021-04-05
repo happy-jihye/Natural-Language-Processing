@@ -1,17 +1,27 @@
 # Natural-Language-Processing
 
-- bentrevett의 pytorch tutorial을 통해 학습한 내용입니다. 
-- 일부 코드를 수정하였고, 한국어로 설명을 적어놓았습니다. 
-- [Read in Blog](https://happy-jihye.github.io/categories/#nlp)
+## Papers
+
+- [Sequence to Sequence Learning with Neural Networks(2014)](https://arxiv.org/abs/1409.3215) : [Review](https://happy-jihye.github.io/nlp/nlp-6/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/1_Sequence_to_Sequence_Learning_with_Neural_Networks.ipynb)
+
+- [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation(2014)](https://arxiv.org/abs/1406.1078) : [Review](https://happy-jihye.github.io/nlp/nlp-7/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/2_Learning_Phrase_Representations_using_RNN_Encoder_Decoder_for_Statistical_Machine_Translation.ipynb)
+
+- [Transformer : Attention is All you need(2017)](https://arxiv.org/abs/1706.03762) : [Review](https://happy-jihye.github.io/nlp/nlp-8/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/happy-jihye/Natural-Language-Processing/blob/main/code/6_Attention_is_All_You_Need.ipynb)
+
+- [Reformer: The Efficient Transformer(2020)](https://arxiv.org/abs/2001.04451) : [Review](https://happy-jihye.github.io/nlp/nlp-10/)
+
+- [Visual Transformer(ViT): An Image is Worth 16X16 Words: Transformers for Image Recognition at Scale(2020)](https://arxiv.org/abs/2010.11929) : [Review](https://happy-jihye.github.io/nlp/nlp-9/)
 
 
-
+---
 
 ## Tutorials
 
+- bentrevett의 pytorch tutorial을 통해 학습한 내용입니다. 
+
 **감정 분석 모델(Sentiment Analysis)**
 
-- 1 - [Simple Sentiment Analysis](https://github.com/happy-jihye/Natural-Language-Processing/blob/main/code/1_Simple_Sentiment_Analysis.ipynb) : [Review](https://happy-jihye.github.io/nlp/nlp-1/)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/1_Simple_Sentiment_Analysis.ipynb) :[]
+- 1 - [Simple Sentiment Analysis](https://github.com/happy-jihye/Natural-Language-Processing/blob/main/code/1_Simple_Sentiment_Analysis.ipynb) : [Review](https://happy-jihye.github.io/nlp/nlp-1/)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/1_Simple_Sentiment_Analysis.ipynb)
 
   - Pytorch의 torchtext를 이용한 간단한 프로젝트입니다. 
   - torchtext의 인터넷 영화 데이터베이스(IMDb dataset)을 Recurrent Neural network(RNN)를 통해 학습시켜 영화의 review가 긍정적인 리뷰인지, 부정적인 리뷰인지를 판단합니다. 
@@ -50,7 +60,7 @@
 
 - 2 - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://github.com/happy-jihye/Natural-Language-Processing/blob/main/code/2_Learning_Phrase_Representations_using_RNN_Encoder_Decoder_for_Statistical_Machine_Translation.ipynb) : [Review](https://happy-jihye.github.io/nlp/nlp-7/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/2_Learning_Phrase_Representations_using_RNN_Encoder_Decoder_for_Statistical_Machine_Translation.ipynb)
 
-  - Seq2Seq model과 GRU model을 최초로 제안한 논문인 [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) paper의 모델을 간단하게 구현하였습니다.
+  - Seq2Seq model과 GRU model을 최초로 제안한 논문인 [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1406.1078) paper의 모델을 간단하게 구현하였습니다.
 
 ## Reference 
 - https://github.com/bentrevett/pytorch-sentiment-analysis

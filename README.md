@@ -9,7 +9,7 @@
 
 - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)(2014) : [Review](https://happy-jihye.github.io/nlp/nlp-7/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/2_Learning_Phrase_Representations_using_RNN_Encoder_Decoder_for_Statistical_Machine_Translation.ipynb)
 
-- [Transformer : Attention is All you need](https://arxiv.org/abs/1706.03762)(2017) : [Review](https://happy-jihye.github.io/nlp/nlp-8/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/happy-jihye/Natural-Language-Processing/blob/main/code/6_Attention_is_All_You_Need.ipynb)
+- [Transformer : Attention is All you need](https://arxiv.org/abs/1706.03762)(2017) : [Review](https://happy-jihye.github.io/nlp/nlp-8/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Natural-Language-Processing/blob/main/code/6_Attention_is_All_You_Need.ipynb)
 
 - [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)(2020) : [Review](https://happy-jihye.github.io/nlp/nlp-10/)
 
